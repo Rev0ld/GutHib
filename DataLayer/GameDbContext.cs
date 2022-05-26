@@ -15,11 +15,15 @@ namespace DataLayer
 
         }
 
+        public GameDbContext()
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=IVAN-VIPER\SQLEXPRESS;;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer(@"Server=IVAN-VIPER\SQLEXPRESS; Database=GameDb;Trusted_Connection=True;");
             }
         }
             public DbSet<User> Users { get; set; }

@@ -5818,11 +5818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cuz why not\\IvanMladenov11e\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\cuz why not\\IvanMladenov11e\\DataLayer\\DataLayer.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\cuz why not\\IvanMladenov11e\\DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5839,8 +5839,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\cuz why not\\IvanMladenov11e\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\cuz why not\\IvanMladenov11e\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

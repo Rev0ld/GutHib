@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{42AA7466-E0BF-47FB-B469-502F92E1AB49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingLayer", "TestingLayer\TestingLayer.csproj", "{2B5E22F2-B096-4DA3-9D9C-7498E475626A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingLayer", "TestingLayer\TestingLayer.csproj", "{2B5E22F2-B096-4DA3-9D9C-7498E475626A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{2696755F-B030-487F-BBF9-206A75BD0471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{4619314E-63A4-4EEB-A46E-D7AFCA48302A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{2B5E22F2-B096-4DA3-9D9C-7498E475626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B5E22F2-B096-4DA3-9D9C-7498E475626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B5E22F2-B096-4DA3-9D9C-7498E475626A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2696755F-B030-487F-BBF9-206A75BD0471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2696755F-B030-487F-BBF9-206A75BD0471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2696755F-B030-487F-BBF9-206A75BD0471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2696755F-B030-487F-BBF9-206A75BD0471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4619314E-63A4-4EEB-A46E-D7AFCA48302A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4619314E-63A4-4EEB-A46E-D7AFCA48302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4619314E-63A4-4EEB-A46E-D7AFCA48302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4619314E-63A4-4EEB-A46E-D7AFCA48302A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
