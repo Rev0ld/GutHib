@@ -31,5 +31,11 @@ namespace BusinessLayer
             Name = name;
             
         }
+
+        public Game(int id, string name)
+            : this(name)
+        {
+            this.ID = id;
+        }
     }
 }

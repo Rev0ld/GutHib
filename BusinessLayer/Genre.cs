@@ -27,5 +27,10 @@ namespace BusinessLayer
         {
             Name = name;
         }
+        public Genre(int id, string name)
+            : this(name)
+        {
+            this.ID = id;
+        }
     }
 }

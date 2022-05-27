@@ -58,7 +58,7 @@ namespace BusinessLayer
             
         }
         public User(int id, string firstName, string lastName, byte age, string userName, string password, string eMail)
-            : this(firstName, lastName, age, userName, password, eMail) 
+            : this(firstName, lastName, age, userName, password, eMail)
         {
             this.ID = id;
         }

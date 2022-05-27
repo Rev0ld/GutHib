@@ -30,7 +30,8 @@ namespace PresentationLayer
 
         private void gameBtn_Click(object sender, EventArgs e)
         {
-
+            GameForm gameForm = new GameForm();
+            gameForm.ShowDialog();
         }
 
         private void genreBtn_Click(object sender, EventArgs e)
