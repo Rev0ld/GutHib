@@ -41,6 +41,7 @@
             // nameTxtBox
             // 
             this.nameTxtBox.Location = new System.Drawing.Point(69, 40);
+            this.nameTxtBox.MaxLength = 20;
             this.nameTxtBox.Name = "nameTxtBox";
             this.nameTxtBox.Size = new System.Drawing.Size(100, 23);
             this.nameTxtBox.TabIndex = 0;

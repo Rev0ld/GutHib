@@ -36,7 +36,8 @@ namespace PresentationLayer
 
         private void genreBtn_Click(object sender, EventArgs e)
         {
-
+            GenreForm genreForm = new GenreForm();
+            genreForm.ShowDialog();
         }
     }
 }

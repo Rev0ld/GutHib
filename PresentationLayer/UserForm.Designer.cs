@@ -52,6 +52,7 @@
             // fNameTxtBox
             // 
             this.fNameTxtBox.Location = new System.Drawing.Point(86, 34);
+            this.fNameTxtBox.MaxLength = 20;
             this.fNameTxtBox.Name = "fNameTxtBox";
             this.fNameTxtBox.Size = new System.Drawing.Size(100, 23);
             this.fNameTxtBox.TabIndex = 1;
@@ -59,6 +60,7 @@
             // lNameTxtBox
             // 
             this.lNameTxtBox.Location = new System.Drawing.Point(86, 63);
+            this.lNameTxtBox.MaxLength = 20;
             this.lNameTxtBox.Name = "lNameTxtBox";
             this.lNameTxtBox.Size = new System.Drawing.Size(100, 23);
             this.lNameTxtBox.TabIndex = 2;
@@ -66,13 +68,29 @@
             // ageBox
             // 
             this.ageBox.Location = new System.Drawing.Point(86, 92);
+            this.ageBox.Maximum = new decimal(new int[] {
+            80,
+            0,
+            0,
+            0});
+            this.ageBox.Minimum = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
             this.ageBox.Name = "ageBox";
             this.ageBox.Size = new System.Drawing.Size(120, 23);
             this.ageBox.TabIndex = 3;
+            this.ageBox.Value = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
             // 
             // userTxtBox
             // 
             this.userTxtBox.Location = new System.Drawing.Point(86, 121);
+            this.userTxtBox.MaxLength = 20;
             this.userTxtBox.Name = "userTxtBox";
             this.userTxtBox.Size = new System.Drawing.Size(100, 23);
             this.userTxtBox.TabIndex = 4;
@@ -80,6 +98,7 @@
             // passwordTxtBox
             // 
             this.passwordTxtBox.Location = new System.Drawing.Point(86, 150);
+            this.passwordTxtBox.MaxLength = 70;
             this.passwordTxtBox.Name = "passwordTxtBox";
             this.passwordTxtBox.Size = new System.Drawing.Size(232, 23);
             this.passwordTxtBox.TabIndex = 5;
@@ -192,6 +211,7 @@
             // emailTxtBox
             // 
             this.emailTxtBox.Location = new System.Drawing.Point(86, 179);
+            this.emailTxtBox.MaxLength = 20;
             this.emailTxtBox.Name = "emailTxtBox";
             this.emailTxtBox.Size = new System.Drawing.Size(232, 23);
             this.emailTxtBox.TabIndex = 18;
