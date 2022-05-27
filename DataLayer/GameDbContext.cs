@@ -10,14 +10,15 @@ namespace DataLayer
 {
     public class GameDbContext : DbContext
     {
+        public GameDbContext()
+        {
+        }
         public GameDbContext(DbContextOptions options) : base(options)
         {
 
         }
 
-        public GameDbContext()
-        {
-        }
+        
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
