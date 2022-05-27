@@ -6946,11 +6946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\TestingLayer\\TestingLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\GutHib\\TestingLayer\\TestingLayer.csproj",
       "projectName": "TestingLayer",
-      "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\TestingLayer\\TestingLayer.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\TestingLayer\\TestingLayer.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\TestingLayer\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\TestingLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6967,11 +6967,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\DataLayer\\DataLayer.csproj"
+            "C:\\Users\\Ivan\\Desktop\\GutHib\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\DataLayer\\DataLayer.csproj"
             }
           }
         }

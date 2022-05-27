@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

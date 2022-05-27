@@ -5761,11 +5761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\PresentationLayer\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\GutHib\\PresentationLayer\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\PresentationLayer\\PresentationLayer.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\PresentationLayer\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\PresentationLayer\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5782,11 +5782,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\Ivan\\Source\\Repos\\GutHib\\ServiceLayer\\ServiceLayer.csproj"
+            "C:\\Users\\Ivan\\Desktop\\GutHib\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\Ivan\\Desktop\\GutHib\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }
